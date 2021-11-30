@@ -15,8 +15,8 @@ best_config = {
     "weight_decay": 0.0005,
     "dropout": 0.3,
 
-    "report_frequency": 5,
-    "eval_frequency": 40,
+    "report_frequency": 1000,
+    "eval_frequency": 5000,
 
     # ontonotes dir
     "ontonotes_root_dir": "./data/ontonotes",
