@@ -19,10 +19,10 @@ Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly
 
 ### python依赖包
 
-+ python
-+ torch
-+ transformers
-+ numpy
++ python = 3.6.13
++ torch = 1.8.0
++ transformers = 4.5.1
++ numpy = 1.19.2
 
 
 ## 数据集收集和处理
