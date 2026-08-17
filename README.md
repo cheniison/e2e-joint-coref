@@ -1,3 +1,5 @@
+
+
 # e2e-joint-coref
 
 Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly
@@ -76,4 +78,4 @@ Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly
 ## 模型测试
 
 1. 配置 config.py 相关参数，将 evaluate.py 中的数据部分修改为希望测试的数据
-2. 运行 ```pyhton evaluate.py```
+2. 运行 ```python evaluate.py```
